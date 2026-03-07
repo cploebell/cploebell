@@ -4,3 +4,11 @@
 
 
 I am a Data Scientist with over 8 years of experience at NBCUniversal, currently pursuing an M.S. in Applied Data Science at the University of San Diego while working at an AdTech company focusing on data-driven insights. I specialize in bridging the gap between media mix and predictive modeling.
+
+
+*Technical Toolkit*
+* Languages: Python, SQL, R
+* Tools: Tableau, PowerBI, Google Colab
+* Media Tech: FreeWheel, Google Ad Manager, Salesforce, Wide Orbit, Asana
+
+Connect with me: linkedin.com/in/cynthia-portales-loebell/
