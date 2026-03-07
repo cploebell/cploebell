@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### M.S. in Applied Data Science Candidate | AdTech & Media Specialist
+
+
+I am a Data Scientist with over 8 years of experience at NBCUniversal, currently pursuing an M.S. in Applied Data Science at the University of San Diego, and currently working at an AdTech company focusing on data-driven insights. I specialize in bridging the gap between media mix and predictive modeling.
