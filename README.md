@@ -11,7 +11,5 @@ I am a Data Scientist with over 8 years of experience at NBCUniversal, currently
 * Tools: Tableau, PowerBI, Google Colab
 * Media Tech: FreeWheel, Google Ad Manager, Salesforce, Wide Orbit, Asana
 
-Connect with me: [[params.social]]
-    icon = "linkedin"
-    icon_pack = "fa"
-    link = "//linkedin.com/in/cynthia-portales-loebell/"
+Connect with me: 
+([https://www.linkedin.com/in/cynthia-portales-loebell/])
