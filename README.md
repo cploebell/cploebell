@@ -12,4 +12,5 @@ I am a Data Scientist with over 8 years of experience at NBCUniversal, currently
 * Media Tech: FreeWheel, Google Ad Manager, Salesforce, Wide Orbit, Asana
 
 Connect with me: 
-([https://www.linkedin.com/in/cynthia-portales-loebell/])
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cynthia-portales-loebell/)
